@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sademhboba/static/css/main.4f7c69f1.chunk.css",
+    "main.js": "/sademhboba/static/js/main.fc147198.chunk.js",
+    "main.js.map": "/sademhboba/static/js/main.fc147198.chunk.js.map",
+    "runtime-main.js": "/sademhboba/static/js/runtime-main.070d2512.js",
+    "runtime-main.js.map": "/sademhboba/static/js/runtime-main.070d2512.js.map",
+    "static/js/2.733d50fe.chunk.js": "/sademhboba/static/js/2.733d50fe.chunk.js",
+    "static/js/2.733d50fe.chunk.js.map": "/sademhboba/static/js/2.733d50fe.chunk.js.map",
+    "index.html": "/sademhboba/index.html",
+    "static/css/main.4f7c69f1.chunk.css.map": "/sademhboba/static/css/main.4f7c69f1.chunk.css.map",
+    "static/js/2.733d50fe.chunk.js.LICENSE.txt": "/sademhboba/static/js/2.733d50fe.chunk.js.LICENSE.txt",
+    "static/media/index.less": "/sademhboba/static/media/index.55d8119c.less"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.070d2512.js",
+    "static/js/2.733d50fe.chunk.js",
+    "static/css/main.4f7c69f1.chunk.css",
+    "static/js/main.fc147198.chunk.js"
+  ]
+}
